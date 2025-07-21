@@ -91,7 +91,7 @@ Pull requests are welcome! Please fork the repository and submit your PR. If you
 
 This project is licensed under the **MIT License**.
 
-[View full LICENSE here](./https://github.com/AdithiNgatty/Notes/blob/main/LICENSE)
+[View full LICENSE here](https://github.com/AdithiNgatty/Notes/tree/main?tab=MIT-1-ov-file#)
 
 ---
 
