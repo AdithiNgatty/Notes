@@ -91,15 +91,7 @@ Pull requests are welcome! Please fork the repository and submit your PR. If you
 
 This project is licensed under the **MIT License**.
 
-```
-MIT License
-
-Copyright (c) 2025 Adithi
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software...
-```
-
-[View full LICENSE here](./LICENSE)
+[View full LICENSE here](./https://github.com/AdithiNgatty/Notes/blob/main/LICENSE)
 
 ---
 
